@@ -5,7 +5,7 @@
 
 <br>
 
-[**이력서**]()
+[**이력서**](https://jinhwanb.github.io/resume/)
 
 <br>
   
